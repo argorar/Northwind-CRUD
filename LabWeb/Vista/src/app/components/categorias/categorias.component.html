@@ -1,0 +1,14 @@
+<h2>Categorias</h2>
+<input #searchBox id="search-box" (input)="buscarCategorias(searchBox.value)" class="form-control" placeholder="ID"/>
+<br><br>
+<table class="table"> 
+    <thead class="thead-dark">
+  <tr><th scope="col">ID</th><th scope="col">Nombre</th><th scope="col">Descripción</th></tr>
+</thead>
+<tbody *ngFor="let categoria of categorias"> 
+<tr >
+  <th scope="row">{{categoria.CategoryID}}</th>
+  <td>{{categoria.CategoryName}}</td> 
+  <td>{{categoria.Description}}</td>  
+</tr>
+</tbody>

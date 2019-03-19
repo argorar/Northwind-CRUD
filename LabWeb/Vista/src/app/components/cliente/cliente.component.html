@@ -1,0 +1,69 @@
+<h2>Clientes</h2>
+<toaster-container [toasterconfig]="config"></toaster-container>
+<input #searchBox id="search-box" (input)="buscarCliente(searchBox.value)" class="form-control" placeholder="ID"/>
+<br>
+<button class="btn btn-primary" (click)="open(content,'','Guardar')">Nuevo</button>
+<br><br>
+<table class="table"> 
+    <thead class="thead-dark">
+  <tr><th scope="col">Company Name</th><th scope="col">Contact Name</th><th scope="col">City</th><th scope="col">Phone</th><th scope="col">Editar</th><th scope="col">Eliminar</th></tr>
+</thead>
+<tbody *ngFor="let cliente of clientes"> 
+<tr >
+  <th scope="row">{{cliente.CompanyName}}</th>
+  <td>{{cliente.ContactName}}</td> 
+  <td>{{cliente.City}}</td> 
+  <td>{{cliente.Phone}}</td>  
+  <td><button class="btn btn-dark btn-sm"  (click) = "open(content,cliente,'Actualizar')">Editar</button></td>
+  <td><button class="btn btn-dark btn-sm"  (click) = "eliminarCliente(cliente)">Eliminar</button></td>       
+</tr>
+</tbody>
+</table> 
+    <ng-template #content let-c="close" let-d="dismiss">
+        <div class="modal-header">
+          <h4 class="modal-title" id="modal-basic-title">Customer</h4>
+          <button type="button" class="close" aria-label="Close" (click)="c('Close click')">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>        
+        <div class="modal-body">
+            <form #miFormulario='ngForm' (ngSubmit)="Save(miFormulario,c)">
+                <div class="form-group">
+                  <label for="nombre">Customer ID</label>
+                  <input type="text" name="nombre" [(ngModel)]="clienteSeleccionado.CustomerID" required class="form-control" id="nombre"
+                    placeholder="ID" minlength="4" #nombre='ngModel'>
+          
+                  <div *ngIf="nombre.invalid && (nombre.touched || nombre.dirty)" class="alert alert-error" role="alert">
+                    <div class="alert alert-danger" *ngIf="nombre.errors?.required">
+                      ID requerido
+                    </div>
+                  </div>
+          
+                </div>
+                <div class="form-group">
+                  <label for="CompanyName">Nombre</label>
+                  <input type="text" name="CompanyName" [(ngModel)]="clienteSeleccionado.CompanyName" class="form-control" id="CompanyName" placeholder="Nombre" required>
+                </div>   
+                <div class="form-group">
+                    <label for="ContactName">Nombre de Contacto</label>
+                    <input type="text" name="ContactName" [(ngModel)]="clienteSeleccionado.ContactName" class="form-control" id="ContactName" placeholder="Nombre de Contacto">
+                  </div>  
+                  <div class="form-group">
+                      <label for="City">Ciudad</label>
+                      <input type="text" name="City" [(ngModel)]="clienteSeleccionado.City" class="form-control" id="City" placeholder="Ciudad">
+                    </div>  
+                    <div class="form-group">
+                        <label for="Phone">Telefono</label>
+                        <input type="text" name="Phone" [(ngModel)]="clienteSeleccionado.Phone" class="form-control" id="Phone" placeholder="Telefono">
+                      </div>    
+                <button type="submit" class="btn btn-primary">{{accion}}</button>         
+              </form>                       
+        </div>
+      </ng-template>
+
+
+
+ 
+
+
+

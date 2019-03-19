@@ -1,0 +1,160 @@
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\csc.exe
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\csc.exe.config
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\csc.rsp
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\csi.exe
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\csi.rsp
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\System.AppContext.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\System.IO.FileSystem.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\vbc.exe
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\vbc.exe.config
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\vbc.rsp
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\LabWeb.dll.config
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\LabWeb.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\LabWeb.pdb
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\EntityFramework.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\EntityFramework.SqlServer.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\Newtonsoft.Json.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\System.Net.Http.Formatting.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\System.Web.Http.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\System.Web.Http.WebHost.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\EntityFramework.xml
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\EntityFramework.SqlServer.xml
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\Newtonsoft.Json.xml
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\System.Net.Http.Formatting.xml
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\System.Web.Http.xml
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\System.Web.Http.WebHost.xml
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\es\System.Web.Http.resources.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\obj\Debug\LabWeb.dll
+c:\users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\obj\Debug\LabWeb.pdb
+C:\Users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\System.Web.Cors.dll
+C:\Users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\System.Web.Http.Cors.dll
+C:\Users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\bin\System.Web.Http.Cors.xml
+C:\Users\juanramos\documents\visual studio 2017\Projects\LabWeb\LabWeb\obj\Debug\LabWeb.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\csc.exe
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\csc.exe.config
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\csc.rsp
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\csi.exe
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\csi.rsp
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\vbc.exe
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\vbc.exe.config
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\vbc.rsp
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\LabWeb.dll.config
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\LabWeb.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\LabWeb.pdb
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\EntityFramework.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\Newtonsoft.Json.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\System.Web.Cors.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\System.Web.Http.Cors.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\System.Web.Http.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\EntityFramework.xml
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\System.Web.Http.xml
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\System.Web.Http.Cors.xml
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\Newtonsoft.Json.xml
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\es\System.Web.Http.resources.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\obj\Debug\LabWeb.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\obj\Debug\LabWeb.csproj.CopyComplete
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\obj\Debug\LabWeb.dll
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\obj\Debug\LabWeb.pdb
+C:\Users\Sebastián\Desktop\LabWeb\LabWeb\obj\Debug\LabWeb.csprojAssemblyReference.cache
+C:\Development\LabWeb\LabWeb\bin\roslyn\csc.exe
+C:\Development\LabWeb\LabWeb\bin\roslyn\csc.exe.config
+C:\Development\LabWeb\LabWeb\bin\roslyn\csc.rsp
+C:\Development\LabWeb\LabWeb\bin\roslyn\csi.exe
+C:\Development\LabWeb\LabWeb\bin\roslyn\csi.rsp
+C:\Development\LabWeb\LabWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Development\LabWeb\LabWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Development\LabWeb\LabWeb\bin\roslyn\System.AppContext.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Development\LabWeb\LabWeb\bin\roslyn\vbc.exe
+C:\Development\LabWeb\LabWeb\bin\roslyn\vbc.exe.config
+C:\Development\LabWeb\LabWeb\bin\roslyn\vbc.rsp
+C:\Development\LabWeb\LabWeb\bin\roslyn\VBCSCompiler.exe
+C:\Development\LabWeb\LabWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Development\LabWeb\LabWeb\bin\LabWeb.dll.config
+C:\Development\LabWeb\LabWeb\bin\LabWeb.dll
+C:\Development\LabWeb\LabWeb\bin\LabWeb.pdb
+C:\Development\LabWeb\LabWeb\bin\EntityFramework.dll
+C:\Development\LabWeb\LabWeb\bin\EntityFramework.SqlServer.dll
+C:\Development\LabWeb\LabWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Development\LabWeb\LabWeb\bin\Newtonsoft.Json.dll
+C:\Development\LabWeb\LabWeb\bin\System.Net.Http.Formatting.dll
+C:\Development\LabWeb\LabWeb\bin\System.Web.Cors.dll
+C:\Development\LabWeb\LabWeb\bin\System.Web.Http.Cors.dll
+C:\Development\LabWeb\LabWeb\bin\System.Web.Http.dll
+C:\Development\LabWeb\LabWeb\bin\System.Web.Http.WebHost.dll
+C:\Development\LabWeb\LabWeb\bin\EntityFramework.xml
+C:\Development\LabWeb\LabWeb\bin\EntityFramework.SqlServer.xml
+C:\Development\LabWeb\LabWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Development\LabWeb\LabWeb\bin\System.Net.Http.Formatting.xml
+C:\Development\LabWeb\LabWeb\bin\System.Web.Http.xml
+C:\Development\LabWeb\LabWeb\bin\System.Web.Http.Cors.xml
+C:\Development\LabWeb\LabWeb\bin\System.Web.Http.WebHost.xml
+C:\Development\LabWeb\LabWeb\bin\Newtonsoft.Json.xml
+C:\Development\LabWeb\LabWeb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Development\LabWeb\LabWeb\bin\es\System.Web.Http.resources.dll
+C:\Development\LabWeb\LabWeb\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Development\LabWeb\LabWeb\obj\Debug\LabWeb.csprojAssemblyReference.cache
+C:\Development\LabWeb\LabWeb\obj\Debug\LabWeb.csproj.CoreCompileInputs.cache
+C:\Development\LabWeb\LabWeb\obj\Debug\LabWeb.csproj.CopyComplete
+C:\Development\LabWeb\LabWeb\obj\Debug\LabWeb.dll
+C:\Development\LabWeb\LabWeb\obj\Debug\LabWeb.pdb

@@ -1,0 +1,55 @@
+<h2>Pedidos</h2>
+<input #searchBox id="search-box" (input)="buscarPedido(searchBox.value)" class="form-control" placeholder="ID" /> <br>
+<table class="table">
+  <thead class=" thead-dark">
+    <tr>
+      <th scope="col">Order ID</th>
+      <th scope="col">Order Date:</th>
+      <th scope="col">Required Date</th>
+      <th scope="col">Shipped Date</th>
+      <th scope="col">Freight</th>
+      <th scope="col">Detalles</th>
+      <th scope="col">Eliminar</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let pedido of pedidos">
+    <tr>
+      <th scope="row">{{pedido.OrderID}}</th>
+      <td>{{pedido.OrderDate}}</td>
+      <td>{{pedido.RequiredDate}}</td>
+      <td>{{pedido.ShippedDate}}</td>
+      <td>{{pedido.Freight}}</td>
+      <td><button class="btn btn-dark btn-sm" (click)="open(content,pedido,'Detalles')">Detalles</button></td>
+      <td><button class="btn btn-dark btn-sm" (click)="eliminarPedido(pedido)">Eliminar</button></td>
+    </tr>
+  </tbody>
+</table>
+
+<ng-template #content let-c="close" let-d="dismiss">
+  <div class="modal-body">
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-basic-title">Detalles Pedido</h4>
+      <button type="button" class="close" aria-label="Close" (click)="c('Close clicks')">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <table class="table"> 
+      <thead class=" thead-dark">
+      <tr>
+        <th>Order ID</th>
+        <th>Product</th>
+        <th>Unit Price</th>
+        <th>Quantity</th>
+      </tr>
+      </thead>
+      <tbody *ngFor="let detalle of lineas">
+        <tr>
+          <th scope="row">{{detalle.OrderID}}</th>
+          <td>{{detalle.ProductID}}</td>
+          <td>{{detalle.UnitPrice}}</td>
+          <td>{{detalle.Quantity}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</ng-template>
